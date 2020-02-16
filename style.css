@@ -19,5 +19,8 @@ body {
 }
 #header {
   position: top;
-  widows: 10px;
+  left: 0px;
+}
+#choices {
+  
 }

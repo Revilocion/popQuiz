@@ -1,19 +1,8 @@
-# Outline: Code Quiz
+# popQuiz
 
-To do: HTML/CSS
+To do:
+* We need to have the questions equal a point.
 
-* We are going to make a simple page.
-    * similar look to the computer guessing game.
-* Maybe a navbar as a fancy header
+* We are going to need three different possible answers.
 
-
-To do: JS
-* I am going to want to set a timer for the page.
-    * Timer shows at the bottom of the page and the top.
-
-* There will be a start button at the top of the page.
-    * Create a "start" button.
-* The questions for the quiz needs replace itself with the next question.
-    * 
-
-
+* We need to change the text of the choices as well when we have chosen one.
