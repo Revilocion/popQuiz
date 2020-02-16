@@ -21,6 +21,14 @@ body {
   position: top;
   left: 0px;
 }
-#choices {
-  
+#choice1 {
+  margin-left: 10px;
+}
+
+#choice2 {
+  margin-left: 10px;
+}
+
+#choice3 {
+  margin-left: 10px;
 }
